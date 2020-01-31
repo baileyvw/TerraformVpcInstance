@@ -39,4 +39,19 @@ Variables are read from variables.tf file. If not specified in that file, parame
 
 4. UI input (only supports String variables)
 
+Manage AWS VPC With Terraform
+
+https://medium.com/@mitesh_shamra/manage-aws-vpc-with-terraform-d477d0b5c9c5
+
 Terraform related details : https://www.terraform.io/intro/getting-started/install.html 
+
+
+AWS VPC - Create New VPC, Subnets, Internet Gateway
+https://www.learnitguide.net/2019/01/aws-vpc-create-route-tables.html
+
+
+AWS VPC - Create Route Tables and Assign Subnets in AWS
+https://www.learnitguide.net/2019/01/aws-vpc-create-new-vpc-subnets-internet.html
+
+Add the youtube link to all of this to watch.
+https://www.youtube.com/watch?v=gUesnoDzNr4
